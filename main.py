@@ -11,7 +11,7 @@ def dividir(a, b):
     if b != 0:
         return a / b
     else:
-        return False
+        return false
 
 def main():
     num1 = float(input("Ingrese el primer número: "))
